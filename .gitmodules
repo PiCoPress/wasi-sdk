@@ -7,3 +7,5 @@
 [submodule "src/config"]
 	path = src/config
 	url = https://git.savannah.gnu.org/git/config.git
+[submodule "src/config/"]
+	url = https://git.savannah.gnu.org/cgit/config.git/
